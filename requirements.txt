@@ -3,9 +3,8 @@ google-generativeai
 python-dotenv
 langchain
 langchain-community==0.2.7
-langchain_google_generativeai
-PyPDF2
 langchain-google-genai
+PyPDF2
 
 
 
