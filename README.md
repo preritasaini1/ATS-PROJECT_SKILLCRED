@@ -1,4 +1,4 @@
-# preritasaini1-ATS-PROJECT_SKILLCRED
+# ATS-PROJECT_SKILLCRED
 # 👩‍💻Smart ATS for Resumes 📃
 
 ✨Welcome to the **Smart ATS for Resumes** project! This tool is designed to help job seekers optimize their resumes for Applicant Tracking Systems (ATS), ensuring they stand out in the competitive job market.
